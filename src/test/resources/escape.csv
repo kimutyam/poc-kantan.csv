@@ -1,0 +1,3 @@
+str,num,bool
+"""one",1,true
+"two""",2,false

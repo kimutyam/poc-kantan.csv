@@ -1,0 +1,4 @@
+str,num,bool
+,1,true,
+two,,false
+three,3,
